@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Mehrans_book_target" size="2.000000 2.666667" />
     <ImageTarget name="Mehran_cube_target2" size="2.000000 1.500000" />
     <ImageTarget name="Mehran_cube_target" size="2.000000 2.010572" />
     <ImageTarget name="tanhab_cup_marker" size="2.000000 2.666667" />
