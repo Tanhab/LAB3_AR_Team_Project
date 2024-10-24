@@ -204,7 +204,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c685d18f4f41da644aa99d56c548048a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  color: {r: 0, g: 0, b: 0, a: 0}
+  buttonCurrent: {fileID: 0}
+  color:
+    r: 0
+    g: 0
+    b: 0
+    a: 0
 --- !u!114 &83389689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1437,7 +1442,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 886328de6a5c14cbb85854fdf1a5085b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StatusFilter: 0
+  StatusFilter: 1
   UsePoseSmoothing: 1
   AnimationCurve:
     serializedVersion: 2
